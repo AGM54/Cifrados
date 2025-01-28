@@ -17,7 +17,6 @@ llave = generar_llave(len(texto))
 texto_binario = texto_a_binario(texto)
 llave_binaria = texto_a_binario(llave)
 
-# Muestra los resultados
 print("\nTexto Original (ASCII):", texto)
 print("Texto en Binario:", texto_binario)
 print("\nLlave Generada (ASCII):", llave)
