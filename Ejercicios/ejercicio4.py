@@ -13,3 +13,4 @@ texto_ascii = binario_a_texto(binario_sin_espacios)
 
 print("\nTexto en ASCII:")
 print(texto_ascii)
+#conversación: https://chatgpt.com/share/67982de0-7740-8009-b080-8cbb67761a56
