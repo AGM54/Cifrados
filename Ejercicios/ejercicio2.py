@@ -23,4 +23,4 @@ print(binario)
 
 
 
-#conversación: https://chatgpt.com/c/67982bca-d0b0-8009-85c9-682c76e7e2a1
+#conversación: https://chatgpt.com/share/67982de0-7740-8009-b080-8cbb67761a56
