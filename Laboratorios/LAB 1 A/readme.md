@@ -16,16 +16,16 @@ El laboratorio se ha dividido en tres partes principales:
 ### 📌 **1. Implementación de los Cifrados**
 Se crearon scripts independientes para los siguientes cifrados clásicos:
 
-1. `Cifrado_Cesar.py`  
+1. `Cesar.py`  
    - Implementa el Cifrado César con un desplazamiento configurable.  
    - Incluye funciones de **encriptado** y **decriptado**.
    
-2. `Cifrado_Afin.py`  
+2. `Afin.py`  
    - Implementa el Cifrado Afín basado en la ecuación matemática:  
      \[ C(x) = (ax + b) \mod m \]
    - Se valida que el coeficiente `a` tenga **inverso modular** en el espacio del alfabeto (27 letras).
    
-3. `Cifrado_Vigenere.py`  
+3. `Vigenere.py`  
    - Implementa el Cifrado Vigenère con una clave repetitiva.  
    - Usa el alfabeto castellano (incluyendo la letra `ñ`).  
 
@@ -44,9 +44,9 @@ El script `Distribucion_Castellano.py` compara la frecuencia observada en el an�
 
 ```
 /LAB_1_A
-│── Cifrado_Cesar.py
-│── Cifrado_Afin.py
-│── Cifrado_Vigenere.py
+│── Cesar.py
+│── Afin.py
+│── Vigenere.py
 │── Analisis_Frecuencia.py
 │── Distribucion_Castellano.py
 │── README.md
