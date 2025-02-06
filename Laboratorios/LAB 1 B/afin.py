@@ -98,3 +98,4 @@ best_a, best_b, best_text, best_score = results[0]
 # Muestra la mejor clave encontrada y el texto descifrado
 print(f"Mejor clave encontrada: a={best_a}, b={best_b}")
 print(f"Texto descifrado:\n{best_text}")
+#https://chatgpt.com/share/67a2d06d-d460-8009-9957-41ca32f50d55
